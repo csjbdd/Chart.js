@@ -7,7 +7,8 @@
 ```  
 - 최신버전은 4.0.1 이지만 안정적인 3.9.1 으로 head 태그안에 CDN 추가  
 - chart.js 는 canvas 기반으로 렌더링 하기 때문에 SVG 방식에 비해 빠름. 
--  공식 가이드 링크 https://www.chartjs.org/docs/3.9.1/   
+-  공식 가이드 링크 https://www.chartjs.org/docs/3.9.1/  
+-  https://yeon22.github.io/Chartjs-kr/docs/latest/?q=   
 ``` html
 <body>
     <canvas id="myChart"></canvas>    
